@@ -8,6 +8,7 @@
     height: 600px;
 }
 
+/*The controls of the project defined*/
 .controls{
     position: absolute;
     z-index: 10;
@@ -16,6 +17,7 @@
     transform: translateX(-50%);
 }
 
+/*control panels styled*/
 .controls, select, option {
     font-size: 25px;
 }
